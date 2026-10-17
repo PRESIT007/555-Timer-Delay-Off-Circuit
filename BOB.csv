@@ -1,0 +1,15 @@
+Reference,Qty,Value,Footprint,Datasheet,Description
+C1,1,C_25V 100uf,Capacitor_THT:CP_Radial_D10.0mm_P3.80mm,~,"Polarized capacitor, small US symbol"
+C2,1,C 0.1uf,Crystal:Resonator-2Pin_W6.0mm_H3.0mm,~,Unpolarized ceramic capacitor
+C3,1,C 1000uf,Capacitor_THT:CP_Radial_D14.0mm_P7.50mm,~,"Polarized capacitor, small US symbol"
+D1,1,D 1N4007,Diode_THT:D_DO-15_P10.16mm_Horizontal,~,Diode
+J1,1,Screw_Terminal 01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal",~,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,Screw_Terminal_01x03,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal",~,"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+K1,1,5VDC IN,Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C,http://www.sanyourelay.ca/public/products/pdf/SRD.pdf,"Sanyo SRD relay, Single Pole Miniature Power Relay,"
+Q1,1,BC547,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/BC550-D.pdf,"0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+R1,1,R 10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,Resistor
+R3,1,R 4.7k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,Resistor
+RV1,1,R100k,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~,Potentiometer
+SW1,1,SW_Push,Button_Switch_THT:SW_TH_Tactile_Omron_B3F-102x,~,"Push button switch, generic, two pins"
+U1,1,L7805,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"
+U2,1,LM555xN,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/lm555.pdf,"Timer, 555 compatible, PDIP-8"
